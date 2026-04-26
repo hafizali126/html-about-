@@ -1,0 +1,23 @@
+
+<body>
+    <h1><i>my home</i></h1>
+    <ol>
+        <li><a href="index.html">home</a></li>
+        <li><a href="anout.html">about</a></li>
+        <li><a href="contack.html">contack</a></li>
+        <li><a href="gallery.html">gallery</a></li>
+
+
+    </ol>
+
+    <p>
+        My home is a beautiful and cozy place where I live with my family. It is my favorite place in the world, filled
+        with love, laughter, and security.
+    </p>
+    <ul>
+        <li>I live in a comfortable and well-organized house with my family.</li>
+        <li>My house is not very large, but it is cozy and filled with love</li>
+        <li>It has two bedrooms, a bright living room, and a modern kitchen</li>
+        <li>There is a small, beautiful garden in front of my home with colorful flowers</li>
+        <li>My home has a spacious terrace where I often play with my brother.</li>
+    </ul>
